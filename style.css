@@ -11,7 +11,7 @@ body {
 }
 
 .navbar-inverse .navbar-brand:hover {
-    color: red;
+    color: yellow;
 }
 
 .navbar-inverse .navbar-nav>li>a {
@@ -22,6 +22,36 @@ body {
     /*background-color: rgb(51, 122, 183);*/
 }
 
+.navbar-inverse .navbar-brand {
+    color: #d62121;
+}
+
+.navbar-brand > img {
+    display: block;
+    margin: 39px 11px;
+}
+
+.navbar-inverse .navbar-nav > .active > a
+{
+    color: black;
+    background-color: white;
+}
+
+.navbar-inverse .navbar-nav > .active > a:hover {
+    color: #5ac1ca;
+    background-color: white;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover {
+    color: #5ac1ca;
+}
+
+.img-responsive
+{
+    height:500px;
+    width: 100%;
+    margin: 132px 0px;
+}
 
 
 
@@ -68,6 +98,11 @@ body {
     border-color: #333;
     background: black;
     margin: 48px 19px;
+}
+
+.navbar-inverse .navbar-nav > .active > a {
+    color: black;
+    background-color: #2196F3;
 }
 
 }

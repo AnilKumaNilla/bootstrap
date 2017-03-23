@@ -8,6 +8,7 @@
     <title>Bootstrap 101 Template</title>
 
     <!-- Bootstrap -->
+    <link rel="stylesheet" type="text/css" href="font-awesome-4.7.0/css/font-awesome.css">
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="style.css">
 
@@ -20,8 +21,8 @@
   </head>
   <body>
 <!-- Fixed navbar -->
+     <div class="container">
     <nav class="navbar navbar-inverse navbar-fixed-top">
-      <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
             <span class="sr-only">Toggle navigation</span>
@@ -29,7 +30,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Bootstrap theme</a>
+          <a class="navbar-brand" href="#"><img src="image/logo.png"></a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
@@ -53,14 +54,27 @@
             </li>
           </ul>
         </div><!--/.nav-collapse -->
-      </div>
+      
     </nav>
 
    
-
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
-  </body>
+
+<div class="row">
+  <div class="slider">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12"><img src="image/axiona4.jpg" class="img-responsive"></div>   
+  </div>
+</div>
+<div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4"><span class="glyphicon">&#xe134;</span></div>
+    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 layout2"> <i class="icon-male"></i></div>
+    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 layout3"></div>
+</div>
+
+</div>  <!--  </container> -->
+</body>
 </html>
+
