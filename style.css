@@ -1,13 +1,27 @@
+.container-fluid {
+    /* padding-right: 15px; */
+    /* padding-left: 15px; */
+    padding: 0;
+    margin-right: auto;
+    margin-left: auto;
+}
+
 body {
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 14px;
     line-height: 1.42857143;
     color: #333;
-    background-color: #337ab7;
+    background-color: #d4d4e2;
 }
 
 .navbar-inverse {
     background-color: white;
+        height: 140px;
+}
+
+.navbar-nav {
+    margin: 7.5px -15px;
+    background: white;
 }
 
 .navbar-inverse .navbar-brand:hover {
@@ -48,11 +62,55 @@ body {
 
 .img-responsive
 {
-    height:500px;
-    width: 100%;
     margin: 132px 0px;
 }
 
+.icon-div 
+{
+    height: 300px;
+    width: 102%;
+    background: gray;
+    padding-left: 12%;
+    padding-right: 16%;
+    margin: -117px 0px;
+}
+
+.fa-th-list 
+{
+    background:#05abdf;
+    color: white;
+    padding: 40px;
+    border-radius: 131px;
+    border: 1px solid black;
+}
+.fa-th-list:hover 
+{
+ 
+    border: 3px solid red;
+}
+
+.fa-download
+{
+    background:#07c9c7;
+    color:white;
+    padding: 40px;
+    border-radius: 131px;
+}
+
+.fa-expand
+{
+    background:#0cc67e;
+    color: white;
+    padding: 40px;
+    border-radius: 131px;
+}
+
+.image2
+{
+    height: 100px
+    width:100%;
+    background: black;
+}
 
 
 /*For lepTop___________________________________________________________________________________L____*/
@@ -76,18 +134,27 @@ body {
     margin: 41px 0px;
 }
 
+
 }
+
+@media (max-width: 1199px) and (min-width: 768px)
+{
+
+.navbar-nav {
+    float: left;
+    margin: 38px 98px;
+
+
+    }}
+
 
 /*For Tablet __________________________________________________________________________________T___*/
-@media(min-width:768px) and (max-width: 1199px){
-
-.navbar-header {
-     height: 134px;
-}
+/*
 
 
-}
 
+
+*/
 /*For Mobile___________________________________________________________________________________M___*/
 @media(max-width:767px){
 
@@ -104,5 +171,6 @@ body {
     color: black;
     background-color: #2196F3;
 }
+
 
 }
