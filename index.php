@@ -19,11 +19,12 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
-  <body>
+<body>
 <!-- Fixed navbar -->
-     <div class="container-fluid">
-    <nav class="navbar navbar-inverse navbar-fixed-top">
-        <div class="navbar-header">
+<div class="container">
+  <div class="row">
+    <nav class="col-xs-12 col-sm-12 col-md-12 col-lg-12 navbar navbar-inverse navbar-fixed-top">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
             <span class="sr-only">Toggle navigation</span>
             <span class="icon-bar"></span>
@@ -49,55 +50,61 @@
                 <li><a href="#">Separated link</a></li>
                 <li><a href="#">One more separated link</a></li>
               </ul>
-            <li><a href="#about">BLOG</a></li>
-            <li><a href="#contact">SHORTCODES</a></li>
+                <li><a href="#about">BLOG</a></li>
+                <li><a href="#contact">SHORTCODES</a></li>
             </li>
           </ul>
         </div><!--/.nav-collapse -->
       
     </nav>
+  </div>
+</div>  <!-- /container -->
 
-   
-
-
-<div class="row">
-      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12"><img src="image/axiona4.jpg" class="img-responsive" alt="Responsive image"></div>   
-</div>
 <div class="container-fluid">
-<div class="row icon-div">
-  
-    <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4" style="text-align:justify;"><h1 align="center"><i class="fa fa-th-list" aria-hidden="true"></i></h1><h3 align="center">Layout Constructor</h3>
-
-<p align="center">Consecetur adipiscing donec ipsum, loboris convallis rutrum culis. Aliquam vitae odio elit nullam condimentum varius.</p></div>
-    <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 layout2"><h1 align="center"><i class="fa fa-download" aria-hidden="true"></i></h1><h3 align="center"> One Click Demo Install</h3>
-
-<p align="center">Consecetur adipiscing donec ipsum, loboris convallis rutrum culis. Aliquam vitae odio elit nullam condimentum varius.</p></div>
-    <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 layout3"><h1 align="center"><i class="fa fa-expand" aria-hidden="true"></i></h1><h3 align="center"> Totally Responsive</h3>
-
-<p align="center">Consecetur adipiscing donec ipsum, loboris convallis rutrum culis. Aliquam vitae odio elit nullam condimentum varius.</p></div>
-  
-
-</div>
-</div>  <!-- </contaneir> -->
-<div class="container">
-<div class="row image2">
-<div class="col-lg-offset-1 col-xs-12 col-sm-12 col-md-12 col-lg-10">
-    <img src="image/screen-browser.png" class="img-responsive">
+  <div class="row">
+   <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 div2">
+<!--     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+      <img src="image/axiona4.jpg" class="img-responsive">
+    </div> --> 
+   </div>   
+  </div>
+<div class="row">
+  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 icon-div">
+      <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4" style="text-align:justify;">
+      <h1 align="center"><i class="fa fa-th-list" aria-hidden="true"></i></h1>
+      <h3 align="center">Layout Constructor</h3>
+      <p align="center">Consecetur adipiscing donec ipsum, loboris convallis rutrum culis. Aliquam vitae odio elit nullam condimentum varius.</p>
+    </div>
+    <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 layout2">
+      <h1 align="center"><i class="fa fa-download" aria-hidden="true"></i></h1>
+      <h3 align="center"> One Click Demo Install</h3>
+      <p align="center">Consecetur adipiscing donec ipsum, loboris convallis rutrum culis. Aliquam vitae odio elit nullam condimentum varius.</p>
+    </div>
+    <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 layout3">
+      <h1 align="center"><i class="fa fa-expand" aria-hidden="true"></i></h1>
+      <h3 align="center"> Totally Responsive</h3>
+      <p align="center">Consecetur adipiscing donec ipsum, loboris convallis rutrum culis. Aliquam vitae odio elit nullam condimentum varius.</p>
+    </div>
+    </div>
   </div>
 </div>
 </div>
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-xs-12 col-sm-4 col-md-4 col-lg-12 div1">
 
+      
+    </div>
+  </div>
 </div>
 
-</div>  <!--  </container> -->
 
+     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+     <!-- Include all compiled plugins (below), or include individual files as needed -->
+     <script src="js/bootstrap.min.js"></script>
 
-
-
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.min.js"></script>
+    
 </body>
 </html>
 
