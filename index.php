@@ -5,12 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Bootstrap 101 Template</title>
+    <title>AXIOMA</title>
 
     <!-- Bootstrap -->
     <link rel="stylesheet" type="text/css" href="font-awesome-4.7.0/css/font-awesome.css">
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="icon" 
+      type="image/png" 
+      href="http://axioma.webtemplatemasters.com/wp-content/themes/axioma/favicon.ico">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -63,9 +66,9 @@
 <div class="container-fluid">
   <div class="row">
    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 div2">
-<!--     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
       <img src="image/axiona4.jpg" class="img-responsive">
-    </div> --> 
+    </div> 
    </div>   
   </div>
 <div class="row">
@@ -88,17 +91,31 @@
     </div>
   </div>
 </div>
-</div>
 <div class="container-fluid">
   <div class="row">
     <div class="col-xs-12 col-sm-4 col-md-4 col-lg-12 div1">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 div1font"><h1 align="center">The Great Deal of Speed, Quality and Usability</h1>
+      </div>
+      <div class="col-lg-offset-2 col-xs-12 col-sm-12 col-md-12 col-lg-10"><img src="image/screen-browser.png" class="img-responsive" > 
+      </div>
+    </div>
+  </div>
 
-      
+<div class="row">
+  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 div3">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 div4">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+         <img src="image/eva.jpg" class="img-rounded">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 div5">
+         <h3 align="center">The problem was resolved within 24 hours. The staff that handle the case was very polite and handle the matter very professionally. Well done ThemeMakers and keep up the good job.</h3>
+        
+      </div>   
+      </div>
     </div>
   </div>
 </div>
 
-
+</div>
      <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
      <!-- Include all compiled plugins (below), or include individual files as needed -->
