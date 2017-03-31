@@ -107,12 +107,54 @@
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
          <img src="image/eva.jpg" class="img-rounded">
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 div5">
-         <h3 align="center">The problem was resolved within 24 hours. The staff that handle the case was very polite and handle the matter very professionally. Well done ThemeMakers and keep up the good job.</h3>
+         <h3 align="center">The problem was resolved within 24 hours. The staff that handle the case was very polite and handle the matter very professionally. Well done ThemeMakers and keep up the good job.<br><br>Sandra Nagell, web designer</h3>
         
       </div>   
       </div>
     </div>
   </div>
+</div>
+<div class="row div6">
+  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 div7"><h2>Beautifull Projects We've Released</h2>
+    <p>vestibulum ullamcorper, mi sit amet malesuada porttitor, justo tortor sodales lectus, eget fringilla <br>nulla dui et sem. Vivamus ac tincidunt lacusmauris gravida.</p>
+  </div>
+</div>
+<div class="row div8">
+  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
+    <img src="image/book.jpg" class="img-responsive">
+  </div>
+  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
+   <img src="image/television.png" class="img-responsive">
+  </div>
+  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
+   <img src="image/book2.png" class="img-responsive">
+  </div>
+ </div>
+<div class="row div9">
+  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
+   <img src="image/watch.png" class="img-responsive">
+  </div>
+  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
+   <img src="image/bikni.jpg" class="img-responsive"> 
+  </div>
+  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
+   <img src="image/man.png" class="img-responsive">
+  </div>
+</div>
+<div class="row">
+   <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1">
+   </div>
+   <div class="col-xs-12 col-sm-12 col-md-10 col-lg-10 " id='div12'>
+    <img src="image/alice.jpg" class="img-roundedd abc">
+     <img src="image/alice.jpg" class="img-roundedd abc">
+     <img src="image/alice.jpg" class="img-roundedd abc">
+     <img src="image/alice.jpg" class="img-roundedd abc">
+     <img src="image/alice.jpg" class="img-roundedd abc">
+     <img src="image/alice.jpg" class="img-roundedd abc">
+     
+   </div>
+   <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1">
+   </div>
 </div>
 
 </div>
