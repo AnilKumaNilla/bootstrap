@@ -120,44 +120,66 @@
   </div>
 </div>
 <div class="row div8">
-  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
+  <div class="col-xs-12 col-sm-4 col-md-12 col-lg-4">
     <img src="image/book.jpg" class="img-responsive">
   </div>
-  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
+  <div class="col-xs-12 col-sm-4 col-md-12 col-lg-4">
    <img src="image/television.png" class="img-responsive">
   </div>
-  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
+  <div class="col-xs-12 col-sm-4 col-md-12 col-lg-4">
    <img src="image/book2.png" class="img-responsive">
   </div>
  </div>
 <div class="row div9">
-  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
+  <div class="col-xs-12 col-sm-4 col-md-12 col-lg-4">
    <img src="image/watch.png" class="img-responsive">
   </div>
-  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
+  <div class="col-xs-12 col-sm-4 col-md-12 col-lg-4">
    <img src="image/bikni.jpg" class="img-responsive"> 
   </div>
-  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
+  <div class="col-xs-12 col-sm-4 col-md-12 col-lg-4">
    <img src="image/man.png" class="img-responsive">
   </div>
 </div>
-<div class="row">
-   <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1">
+<div class="row row4">
+   <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
    </div>
-   <div class="col-xs-12 col-sm-12 col-md-10 col-lg-10 " id='div12'>
-    <img src="image/alice.jpg" class="img-roundedd abc">
-     <img src="image/alice.jpg" class="img-roundedd abc">
-     <img src="image/alice.jpg" class="img-roundedd abc">
-     <img src="image/alice.jpg" class="img-roundedd abc">
-     <img src="image/alice.jpg" class="img-roundedd abc">
-     <img src="image/alice.jpg" class="img-roundedd abc">
-     
+   <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10 team">
+     Meet our Team
    </div>
+   <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
+   </div>
+ </div> 
+ <div class="row row5">
+   <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1"></div>
+
+    <div class="col-xs-12 col-sm-12 col-md-10 col-lg-10 " id='div12'>
+
+     <div class="col-xs-10 col-sm-3 col-md-1 col-lg-2 div13">
+     <img src="image/alice.jpg" class="img-roundedd abc"><p align="center">Alice</p></div>
+
+     <div class="col-xs-10 col-sm-3 col-md-1 col-lg-2 div13">
+     <img src="image/fred.jpg" class="img-roundedd abc"><p align="center">Fred</p></div>
+
+     <div class="col-xs-10 col-sm-3 col-md-1 col-lg-2 div13">
+     <img src="image/ronald.jpg" class="img-roundedd abc"><p align="center">Ronald</p></div>
+
+     <div class="col-xs-10 col-sm-3 col-md-1 col-lg-2 div13">
+     <img src="image/jaff.jpg" class="img-roundedd abc"><p align="center">Jaff</p></div>
+
+     <div class="col-xs-10 col-sm-3 col-md-1 col-lg-2 div13">
+     <img src="image/eva.jpg" class="img-roundedd abc"><p align="center">Eva</p></div>
+
+     <div class="col-xs-10 col-sm-3 col-md-1 col-lg-2 div13">
+     <img src="image/albert.jpg" class="img-roundedd abc"><p align="center">Albert</p></div>
+
+     </div> 
    <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1">
    </div>
 </div>
 
-</div>
+</div>  <!--   </container> -->
+
      <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
      <!-- Include all compiled plugins (below), or include individual files as needed -->
