@@ -177,6 +177,84 @@
    <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1">
    </div>
 </div>
+<div class="row komal">
+  <div class="col-lg-offset-1 col-xs-12 col-sm-12 col-md-10 col-lg-10 div14">
+    <h1>Why Choose Us? 
+    </h1>
+     <p>vestibulum ullamcorper, mi sit amet malesuada portitor, justo tortor sodales lectus, fringilla nulla dui et sem.<br> Vivamus ac tincidunt lacusmauris gravida.
+     </p>
+  </div>
+</div>
+<div class="row choose">
+  <div class="col-lg-offset-2 col-sm-offset-1 col-md-offset-2 col-xs-offset-1 col-xs-10 col-sm-10 col-md-4 col-lg-4 div15">
+    <div class="col-xs-2 col-sm-2 col-md-2 col-lg-1"> 
+     <h1><i class="fa fa-cog" aria-hidden="true"></i></h1>
+    </div> 
+    <div class="col-xs-10 col-sm-10 col-md-11 col-lg-11">
+     <h4>One Click Demo Install</h4>
+    <p>Consecetur adipiscing donec ipsum, loboris convallis rutrum culis vitae.
+    </p>
+    </div>
+
+    <div class="col-xs-2 col-sm-2 col-md-1 col-lg-1"> 
+     <h1><i class="fa fa-lightbulb-o" aria-hidden="true"></i></h1>
+    </div> 
+    <div class="col-xs-10 col-sm-10 col-md-11 col-lg-11">
+     <h4>Unique & Clean Design</h4>
+    <p>Praesent hendrerit ligula non vestibulum cursus. Praesent neque nulla, adipiscing dapibus pellentesque.
+    </p>
+    </div>
+
+    <div class="col-xs-2 col-sm-2 col-md-1 col-lg-1"> 
+     <h1><i class="fa fa-expand" aria-hidden="true"></i></h1>
+    </div> 
+    <div class="col-xs-10 col-sm-10 col-md-11 col-lg-11">
+     <h4>Responsive & Retina</h4>
+    <p>Vestibulum sed est congue, fermentum risus vel, dignissim ligula. Nulla quis iaculis nulla, consequat tempor.
+    </p>
+    </div>
+  </div>
+
+  <div class="col-xs-offset-1 col-sm-offset-1 col-xs-10 col-lg-offset-0 col-sm-10 col-md-4 col-lg-4 div16">
+    <div class="col-xs-2 col-sm-2 col-md-1 col-lg-1"> 
+     <h1><i class="fa fa-comments-o" aria-hidden="true"></i></h1>
+    </div> 
+    <div class="col-xs-10 col-sm-10 col-md-11 col-lg-11">
+     <h4>Great Support</h4>
+    <p>Quisque gravida ut nulla eu vehicula. Morbi id venenatis enim, in euismod est hendrerit purus.
+    </p>
+    </div>
+
+    <div class="col-xs-2 col-sm-2 col-md-1 col-lg-1"> 
+     <h1><i class="fa fa-wrench" aria-hidden="true"></i></h1>
+    </div> 
+    <div class="col-xs-10 col-sm-10 col-md-11 col-lg-11">
+     <h4>Layout Constructor</h4>
+    <p>Consecetur adipiscing donec ipsum, loboris convallis rutrum culis vitae elit nullam condimentum varius.
+    </p>
+    </div>
+
+    <div class="col-xs-2 col-sm-2 col-md-1 col-lg-1"> 
+     <h1><i class="fa fa-gift" aria-hidden="true"></i></h1>
+    </div> 
+    <div class="col-xs-10 col-sm-10 col-md-11 col-lg-11">
+     <h4>Unlimited Skins</h4>
+    <p>Quisque gravida ut nulla eu vehicula. Morbi id venenatis enim, in euismod est.
+    </p>
+    </div>
+  </div>
+
+</div> <!-- </div choos> -->
+
+<div class="row buy-now">
+  <div class="col-lg-offset-2 col-sm-offset-1 col-md-offset-2 col-xs-offset-1 col-xs-10 col-sm-8 col-md-7 col-lg-7 div17">
+  <h5>AXIOMA IS INCREDIBLY MULTIFUNCTIONAL WORPDRESS THEME</h5>
+  <p>Vestibulum ullamcorper, mi sit amet malesuada portitor, justo tortor sodales.</p>
+  </div>
+  <div class="col-xs-offset-1 col-xs-11 col-sm-1 col-md-1 col-lg-1 div18">
+  <button type="button" class="btn">Buy Now</button>
+  </div>
+</div>
 
 </div>  <!--   </container> -->
 
